@@ -5,10 +5,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/ESP32-IoT-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scrum-Master-success?style=for-the-badge" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>
 </p>
 
 ---
