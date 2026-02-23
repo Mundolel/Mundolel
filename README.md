@@ -37,7 +37,7 @@
 ### 🔌 IoT Cryptocurrency Monitoring System
 - ESP32-based crypto monitoring
 - 📧 Email alerts
-- 💡 LED hardware feedback
+- 💡 LED and OLED hardware feedback
 - Real-time automated monitoring
 
 ---
