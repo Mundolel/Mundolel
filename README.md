@@ -26,7 +26,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,spring,python,c,docker,git,bash,JavaFX" />
+<img src="https://skillicons.dev/icons?i=cpp,java,spring,python,c,docker,git,bash" />
+<img src="https://img.shields.io/badge/JavaFX-UI_Framework-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
+
 
 </p>
 
