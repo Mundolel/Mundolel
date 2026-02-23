@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Systems Engineer | IoT Developer | C++ Enthusiast | Scrum Master</h3>
+<h3 align="center">Systems Engineer | IoT Developer | Software Enthusiast | Scrum Master</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=c%2B%2B" />
