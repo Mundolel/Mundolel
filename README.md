@@ -75,6 +75,15 @@
 
 ---
 
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:samuel9bonilla@outlook.es">
+    <img src="https://img.shields.io/badge/Mail-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+---
+
 <p align="center">
   <strong>Always building. Always learning.</strong>
 </p>
