@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Samuel Bonilla</h1>
+<h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">Systems Engineer | IoT Developer | C++ Enthusiast | Scrum Master</h3>
 
 <p align="center">
@@ -68,11 +68,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mundolel&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mundolel&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundolel&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundolel&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
