@@ -1,57 +1,92 @@
-# Samuel Bonilla  
-Systems Engineer | Backend & IoT Developer | Scrum Master
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Samuel Bonilla</h1>
+<h3 align="center">Systems Engineer | IoT Developer | C++ Enthusiast | Scrum Master</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Advanced-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/ESP32-IoT-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scrum-Master-success?style=for-the-badge" />
+</p>
 
 ---
 
-## Professional Profile
+## 👨‍💻 About Me
 
-Results-driven Systems Engineer with experience in backend development, database architecture, containerized environments, and IoT systems. Strong background in C++ and low-level programming, with leadership experience as Scrum Master delivering projects ahead of schedule.
-
----
-
-## Core Competencies
-
-- Backend Development (Java, C++)
-- Database Design (Oracle SQL)
-- Containerization (Docker)
-- IoT Systems (ESP32)
-- Agile & Scrum Leadership
-- Systems Programming (Assembly)
+- 💻 Systems Engineer passionate about **low-level programming**
+- ⚡ IoT hobbyist building real-world ESP32 automation systems
+- 🧠 Strong background in C++ and system design
+- 🚀 Scrum Master delivering projects at **150% efficiency**
+- 🔍 Constantly exploring new technologies
 
 ---
 
-## Professional Experience Highlights
+## 🛠 Tech Stack
 
-### Scrum Master
-- Delivered projects at 150% efficiency against tight deadlines
-- Successfully recovered delayed development cycles
-- Coordinated sprint planning and optimized team productivity
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,docker,git,html,css" />
 
-## Project Experience
-
-### IoT Cryptocurrency Monitoring System
-Developed an embedded monitoring solution using ESP32 with automated email alerts and real-time hardware feedback.
-
-### Hospital Management Platform
-Designed and implemented a Java-based patient management system connected to an Oracle database, fully deployed using Docker containers.
-
-### Assembly-Based Operating System
-Built a minimal operating system from scratch, strengthening deep understanding of hardware-level computing.
-
-### Game Development (Godot)
-Developed small-scale game prototypes focusing on gameplay logic and system design.
+</p>
 
 ---
 
-## Technical Stack
+## 🔬 Featured Projects
 
-C++ | Java | Python | C | Assembly  
-Oracle SQL | Docker | Git | HTML | CSS  
+### 🔌 IoT Cryptocurrency Monitoring System
+- ESP32-based crypto monitoring
+- 📧 Email alerts
+- 💡 LED hardware feedback
+- Real-time automated monitoring
 
 ---
 
-## Open to Opportunities
+### 🏥 Hospital Management Platform
+- Java backend
+- Oracle SQL database
+- Fully containerized with Docker
+- Digital patient record system
 
-Interested in backend development, systems engineering, embedded systems, and innovative technology projects.
+---
+
+### 🖥 Minimal Operating System (Assembly)
+- Bootloader interaction
+- Memory handling
+- Low-level hardware understanding
+- Built from scratch
+
+---
+
+### 🎮 Game Development (Godot)
+- Gameplay logic design
+- Mechanics implementation
+- Small-scale prototypes
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mundolel&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundolel&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🎯 Professional Interests
+
+- Embedded Systems
+- Backend Architecture
+- Systems Programming
+- Scalable Software Design
+- Innovative Tech Projects
+
+---
+
+<p align="center">
+  <strong>Always building. Always learning.</strong>
+</p>
