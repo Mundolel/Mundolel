@@ -44,7 +44,7 @@
 
 ### 🏥 Hospital Management Platform
 - Java backend
-- Oracle SQL database
+- PostgreSQL database with H2 
 - Fully containerized with Docker
 - Digital patient record system
 
