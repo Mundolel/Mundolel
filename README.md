@@ -86,6 +86,12 @@
 ---
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![SCRUM workflow explanation](https://ytcards.demolab.com/?id=lZABbMSLdKg&title=SCRUM+workflow+explanation&lang=en&timestamp=1773610985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SCRUM workflow explanation")](https://www.youtube.com/watch?v=lZABbMSLdKg)
+[![Análisis de modelo sierpinski](https://ytcards.demolab.com/?id=2brbsJEpaug&title=An%C3%A1lisis+de+modelo+sierpinski&lang=en&timestamp=1762227120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Análisis de modelo sierpinski")](https://www.youtube.com/watch?v=2brbsJEpaug)
+[![Integración de correo gmail a Bizagi Studio](https://ytcards.demolab.com/?id=HKqMREXFUYI&title=Integraci%C3%B3n+de+correo+gmail+a+Bizagi+Studio&lang=en&timestamp=1762211110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Integración de correo gmail a Bizagi Studio")](https://www.youtube.com/watch?v=HKqMREXFUYI)
+[![Pitch 2 Gestion de TI](https://ytcards.demolab.com/?id=m-vtYhtzfzQ&title=Pitch+2+Gestion+de+TI&lang=en&timestamp=1760580643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pitch 2 Gestion de TI")](https://www.youtube.com/watch?v=m-vtYhtzfzQ)
+[![Aplicaciones Autómatas Finitos](https://ytcards.demolab.com/?id=yEl7eaDXm_g&title=Aplicaciones+Aut%C3%B3matas+Finitos&lang=en&timestamp=1759194840&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Aplicaciones Autómatas Finitos")](https://www.youtube.com/watch?v=yEl7eaDXm_g)
+[![JavaFX icons](https://ytcards.demolab.com/?id=ZqAbdtrAtoM&title=JavaFX+icons&lang=en&timestamp=1749310428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "JavaFX icons")](https://www.youtube.com/watch?v=ZqAbdtrAtoM)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="center">
