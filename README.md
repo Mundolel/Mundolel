@@ -85,6 +85,9 @@
 
 ---
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <p align="center">
   <strong>Always building. Always learning.</strong>
 </p>
